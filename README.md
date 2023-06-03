@@ -35,4 +35,4 @@ He/Him
 
 Apart from coding, I enjoy exploring nature and going on outdoor adventures. I find it refreshing and inspiring, providing a balance to my digital pursuits.
 
--->
+
