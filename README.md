@@ -1,34 +1,29 @@
 ## Hey there! 👋
 
 I'm kasali 
-<!-- Animation starts here -->
 <details>
-  <summary>Android Developer</summary>
+  <summary style="display: none;"></summary>
   
-  📱 Creating amazing mobile apps using Java and Kotlin.
-  
-  <script>
-    setTimeout(() => {
-      const details = document.querySelector('details');
-      details.removeAttribute('open');
-    }, 5000);
-  </script>
-</details>
+  <p align="center">
+    <span id="role1">📱 Android Developer</span><br>
+    <span id="role2" style="display: none;">🌐 Web Developer</span>
+  </p>
 
-<details>
-  <summary>Web Developer</summary>
-  
-  🌐 Building web applications with HTML, CSS, and JavaScript.
-  
   <script>
+    
+    const role1 = document.getElementById('role1');
+    const role2 = document.getElementById('role2');
+  
     setTimeout(() => {
-      const details = document.querySelectorAll('details');
-      details[0].removeAttribute('open');
-      details[1].setAttribute('open', true);
-    }, 5000);
+      role1.style.display = 'none';
+      role2.style.display = 'inline-block';
+      setTimeout(() => {
+        role1.style.display = 'inline-block';
+        role2.style.display = 'none';
+      }, 5000);
+    }, 0);
   </script>
 </details>
-<!-- Animation ends here -->
 ### I love
 creating innovative solutions and exploring new technologies. 
 ### 🔭 I’m currently working on ...
