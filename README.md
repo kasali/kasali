@@ -1,25 +1,6 @@
 ## Hey there! 👋
 
 I'm kasali 
-<p align="center">
-  <span id="role1">📱 Android Developer</span>
-  <span id="role2" style="display: none;">🌐 Web Developer</span>
-</p>
-
-<script>
-  // Animation logic
-  const role1 = document.getElementById('role1');
-  const role2 = document.getElementById('role2');
-
-  setTimeout(() => {
-    role1.style.display = 'none';
-    role2.style.display = 'inline-block';
-    setTimeout(() => {
-      role1.style.display = 'inline-block';
-      role2.style.display = 'none';
-    }, 5000);
-  }, 0);
-</script>
 ### I love
 creating innovative solutions and exploring new technologies. 
 ### 🔭 I’m currently working on ...
