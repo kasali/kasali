@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes roleAnimation {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .role {
+      animation: roleAnimation 10s infinite;
+    }
+  </style>
+</head>
+<body>
+  
+  
+  <div class="role">
+    <p style="display: none;">📱 Android Developer</p>
+    <p>🌐 Web Developer</p>
+  </div>
+
+  <script>
+    setTimeout(() => {
+      const roles = document.querySelectorAll('.role p');
+      roles[0].style.display = 'block';
+      roles[1].style.display = 'none';
+      setTimeout(() => {
+        roles[0].style.display = 'none';
+        roles[1].style.display = 'block';
+      }, 5000);
+    }, 0);
+  </script>
+</body>
+</html>
