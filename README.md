@@ -25,7 +25,7 @@ If you have any questions related to software development, programming languages
 
 ### 📫 How to reach me: ...
 
-You can reach out to me via twitter at [[twitter)](https://twitter.com/kadev4solutions). I'm also active on LinkedIn, so feel free to connect with me [here](https://www.linkedin.com/in/salif-ka).
+You can reach out to me via twitter at [[twitter)](https://twitter.com/kadev4solutions). I'm also active on LinkedIn, so feel free to connect with me [here](https://www.linkedin.com/in/salif-ka/en).
 
 ### 😄 Pronouns: ...
 
