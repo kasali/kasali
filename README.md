@@ -1,6 +1,7 @@
 ## Hey there! 👋
 
-I'm kasali ![](./index.svg)
+I'm kasali
+   ![](./index.svg)
 ### I love
 creating innovative solutions and exploring new technologies. 
 ### 🔭 I’m currently working on ...
