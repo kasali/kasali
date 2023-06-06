@@ -11,9 +11,6 @@
       animation: roleAnimation 10s infinite;
     }
   </style>
-</head>
-<body>
-  
   
   <div class="role">
     <p style="display: none;">📱 Android Developer</p>
