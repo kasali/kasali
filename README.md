@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm kasali 
+I'm kasali #Android and web developer
    
 ### I love
 creating innovative solutions and exploring new technologies. 
