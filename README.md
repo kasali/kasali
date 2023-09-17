@@ -1,12 +1,12 @@
 ## Hey there! 👋
 
-I'm kasali an Android and web developer
+I'm Kasali an Android and web developer
    
 ### I love
 creating innovative solutions and exploring new technologies. 
 ### 🔭 I’m currently working on ...
 
-I am currently working on several exciting projects, including developing a mobile app for managing personal finances and building a web application for a healthcare startup. I'm always looking for new and challenging projects to expand my skills and knowledge.
+I am currently working on several exciting projects, including developing a mobile app for managing personal finances and building a web application for a healthcare startup. I'm always looking for new and challenging projects to expand my skills and knowledge and make an impact.
 
 ### 🌱 I’m currently learning ...
 
