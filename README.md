@@ -10,7 +10,7 @@ I am currently working on several exciting projects, including developing a mobi
 
 ### 🌱 I’m currently learning ...
 
-I believe in continuous learning, and I'm constantly seeking opportunities to enhance my skills. Currently, I'm diving deep into jetpack librairies, exploring frameworks like Laravel and django. I'm also focusing on improving my front-end development skills, particularly with React and Tailwin css.
+I believe in continuous learning, and I'm constantly seeking opportunities to enhance my skills. Currently, I'm diving deep into jetpack librairies, exploring frameworks like Laravel and django. I'm also focusing on improving my front-end development skills, particularly with React and Tailwind css.
 
 ### 👯 I’m looking to collaborate on ...
 
@@ -26,7 +26,7 @@ If you have any questions related to software development, programming languages
 
 ### 📫 How to reach me: ...
 
-You can reach out to me via twitter at [[twitter)](https://twitter.com/kadev4solutions). I'm also active on LinkedIn, so feel free to connect with me [here](https://www.linkedin.com/in/salif-ka/en).
+You can reach out to me via twitter at [twitter](https://twitter.com/kadev4solutions). I'm also active on LinkedIn, so feel free to connect with me [LinkeDin](https://www.linkedin.com/in/salif-ka/en).
 
 ### 😄 Pronouns: ...
 
