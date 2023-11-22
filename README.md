@@ -6,11 +6,11 @@ I'm Kasali an Android and web developer
 creating innovative solutions and exploring new technologies. 
 ### 🔭 I’m currently working on ...
 
-I am currently working on several exciting projects, including developing a mobile app for managing personal finances and building a web application for a healthcare startup. I'm always looking for new and challenging projects to expand my skills and knowledge and make an impact.
+I am currently working on several exciting projects, including developing a mobile app for managing personal finances and building a web application for a publicity startup. I'm always looking for new and challenging projects to expand my skills and knowledge and make an impact.
 
 ### 🌱 I’m currently learning ...
 
-I believe in continuous learning, and I'm constantly seeking opportunities to enhance my skills. Currently, I'm diving deep into jetpack librairies, exploring frameworks like Laravel and django. I'm also focusing on improving my front-end development skills, particularly with React and Tailwind css.
+I believe in continuous learning, and I'm constantly seeking opportunities to enhance my skills. Currently, I'm diving deep into jetpack libraries like jetpack compose ..., exploring frameworks like Laravel and Symfony. I'm also focusing on improving my front-end development skills, particularly with React and Tailwind css.
 
 ### 👯 I’m looking to collaborate on ...
 
