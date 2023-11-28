@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kasali
 #### Android and web developer
-![Android and web developer]([https://media.licdn.com/dms/image/C4D16AQETWU9k6V3Ftw/profile-displaybackgroundimage-shrink_350_1400/0/1651184541985?e=1706140800&v=beta&t=vl8nmODXnxXl6ukLqrNJMA3Zikb8Da7OM4Wq2khRL5M](https://www.canva.com/design/DAE_Fx1BuNI/dTa7Wqeas-h_g7slHg1DKQ/watch?utm_content=DAE_Fx1BuNI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+![Android and web developer](https://www.canva.com/design/DAE_Fx1BuNI/dTa7Wqeas-h_g7slHg1DKQ/watch?utm_content=DAE_Fx1BuNI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 I love creating innovative and cutting-edge solutions and exploring new technologies...
 
