@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Kasali
-#### Android and web developer
-![Android and web developer](https://www.canva.com/design/DAE_Fx1BuNI/dTa7Wqeas-h_g7slHg1DKQ/watch?utm_content=DAE_Fx1BuNI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+#### Android and web developer freelancer
+<p align="left">
+  <img src="https://photos.app.goo.gl/pDziAZN8CeYWjxYJ6" alt="banner" style="width: 100%; height: auto;">
+</p>
 
-I love creating innovative and cutting-edge solutions and exploring new technologies...
+I love ❤️ creating innovative and cutting-edge solutions and exploring new technologies...
 
 <h2 align="left">Web development :</h2>
 <!-- Mobile Development -->
