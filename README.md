@@ -4,7 +4,6 @@
 
 I love creating innovative and cutting-edge solutions and exploring new technologies...
 
-<h2 align="left">Languages and Tools</h2>
 <h2 align="left">Web development :</h2>
 <!-- Mobile Development -->
 <h3>Mobile Development</h3>
