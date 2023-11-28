@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Kasali
 #### Android and web developer freelancer
-<p align="left">
-  <img src="https://photos.app.goo.gl/pDziAZN8CeYWjxYJ6" alt="banner" style="width: 100%; height: auto;">
-</p>
 
 I love ❤️ creating innovative and cutting-edge solutions and exploring new technologies...
 
