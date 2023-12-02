@@ -3,7 +3,7 @@
 
 I love ❤️ creating innovative and cutting-edge solutions and exploring new technologies...
 
-<h2 align="left">Web development :</h2>
+<h2 align="left">Skills and tools :</h2>
 <!-- Mobile Development -->
 <h3>Mobile Development</h3>
 <p align="left">
