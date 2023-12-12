@@ -150,10 +150,11 @@ I love ❤️ creating innovative and cutting-edge solutions and exploring new t
 - 📫 How to reach me: You can reach out to me via twitter at twitter. I'm also active on LinkedIn, so feel free to connect with me Linkedin. 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Apart from coding, I enjoy exploring nature and going on outdoor adventures. I find it refreshing and inspiring, providing a balance to my digital pursuits. 
-
+<h4>Let's connect </h4>
+<hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salif-ka/en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kadev4solutions)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20052360)  
-
+<hr>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kasali)](https://github.com/ryo-ma/github-profile-trophy)
