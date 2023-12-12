@@ -140,7 +140,7 @@ I love ❤️ creating innovative and cutting-edge solutions and exploring new t
   
 </p>
 
-
+<hr>
 
 - 🔭 I’m currently working on several exciting projects, including developing a mobile app for managing personal finances and building a web application for a publicity startup 
 - 🌱 I’m currently learning I believe in continuous learning, and I'm constantly seeking opportunities to enhance my skills. Currently, I'm diving deep into jetpack libraries like jetpack compose ..., exploring frameworks like Laravel and Symfony. I'm also focusing on improving my front-end development skills, particularly with React and Tailwind css. 
