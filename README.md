@@ -3,7 +3,7 @@
 
 I love ❤️ creating innovative and cutting-edge solutions and exploring new technologies...
 
-## Skills and tools :
+## Skills and tools 
 
 ### Web Development
 
@@ -22,7 +22,7 @@ I love ❤️ creating innovative and cutting-edge solutions and exploring new t
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30">](https://www.php.net)
 
 ### Android Development
-
+[<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="30" height="30">](https://kotlinlang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30">](https://developer.android.com)
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30">](https://flutter.dev)
 
@@ -58,10 +58,15 @@ I love ❤️ creating innovative and cutting-edge solutions and exploring new t
 - 💬 Ask me about If you have any questions related to software development, programming languages, or tech trends, I'm here to help! Don't hesitate to ask me anything. I'm always excited to share my knowledge and engage in meaningful discussions. 
 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Apart from coding, I enjoy exploring nature and going on outdoor adventures. I find it refreshing and inspiring, providing a balance to my digital pursuits. 
+- ⚡ Fun fact: Apart from coding, I enjoy exploring nature and going on outdoor adventures. I find it refreshing and inspiring, providing a balance to my digital pursuits.
+
+---
+
 <h4>📫 How to reach me: You can reach out to me via :</h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salif-ka/en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kadev4solutions)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20052360)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salif-ka/en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kadev4solutions)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20052360)
+
+---
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
