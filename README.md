@@ -1,7 +1,13 @@
 ### Hi there 👋, I'm Kasali
-#### Android and web developer freelancer
+#### Full stack developer freelancer
 
-I love ❤️ creating innovative and cutting-edge solutions and exploring new technologies...
+I am a passionate full-stack developer dedicated to crafting exceptional digital experiences. With a blend of creativity and technical expertise, I specialize in building user-friendly Android apps with Kotlin and Jetpack libraries and captivating websites using Laravel, Symfony, and WordPress that make a lasting impact.
+
+What Drives Me:
+- User-Centric Design: I believe in putting users first, and creating interfaces that are intuitive, engaging, and memorable.
+- End-to-End Solutions: From concept to deployment, I thrive on bringing ideas to life across the full development spectrum.
+- Continuous Innovation: In a fast-paced digital landscape, I stay ahead of the curve, embracing new technologies and trends to deliver cutting-edge solutions.
+- Client Collaboration: Your vision is my priority. I'm here to partner with you, understand your goals, and exceed your expectations every step of the way.
 
 ## Skills and tools 
 
