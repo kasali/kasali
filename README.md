@@ -16,7 +16,7 @@ What Drives Me:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">](https://www.w3schools.com/css/)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30">](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
-[<img src="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" alt="laravel" width="30" height="30">](https://laravel.com/)
+[<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="30" height="30">](https://laravel.com/)
 [<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="30" height="30">](https://symfony.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30">](https://www.php.net)
 
