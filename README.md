@@ -11,39 +11,41 @@ What Drives Me:
 ## Skills and tools 
 
 ### Web Development
-[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30">](https://babeljs.io/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30">](https://getbootstrap.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">](https://www.w3schools.com/css/)
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30">](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
-[<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="30" height="30">](https://laravel.com/)
-[<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="30" height="30">](https://symfony.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30">](https://www.php.net)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60">](https://www.php.net)
+[<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60">](https://laravel.com/)
+[<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60">](https://symfony.com)
+[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60">](https://babeljs.io/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">](https://getbootstrap.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/)
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60">](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60">](https://reactjs.org/)
+
+
 
 ### Android Development
-[<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="30" height="30">](https://kotlinlang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30">](https://developer.android.com)
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30">](https://flutter.dev)
+[<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60">](https://kotlinlang.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60">](https://developer.android.com)
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60">](https://flutter.dev)
 
 ### DevOps && Cloud Services
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30">](https://aws.amazon.com)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30">](https://firebase.google.com/)
-[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30">](https://cloud.google.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30">](https://www.docker.com/)
-[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30">](https://www.jenkins.io)
-[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30">](https://kubernetes.io)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60">](https://firebase.google.com/)
+[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60">](https://cloud.google.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60">](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60">](https://www.jenkins.io)
+[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60">](https://kubernetes.io)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/)
 
 ### Design
 
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30">](https://www.figma.com/)
-[<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30" height="30">](https://zapier.com)
-[<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="zapier" width="30" height="30">](https://canva.com)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60">](https://www.figma.com/)
+[<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="60" height="60">](https://zapier.com)
+[<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="zapier" width="60" height="60">](https://canva.com)
 ### Operating System
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30">](https://www.microsoft.com/en-us/windows)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30">](https://www.linux.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="60" height="60">](https://www.microsoft.com/en-us/windows)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60">](https://www.linux.org/)
 
 ---
 
