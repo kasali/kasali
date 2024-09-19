@@ -39,7 +39,7 @@ What Drives Me:
 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30">](https://www.figma.com/)
 [<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30" height="30">](https://zapier.com)
-
+[<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="zapier" width="30" height="30">](https://canva.com)
 ### Operating System
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30">](https://www.microsoft.com/en-us/windows)
