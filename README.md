@@ -14,7 +14,6 @@ What Drives Me:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60">](https://www.php.net)
 [<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60">](https://laravel.com/)
 [<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60">](https://symfony.com)
-[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60">](https://babeljs.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">](https://getbootstrap.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60">](https://tailwindcss.com/)
