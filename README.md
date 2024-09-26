@@ -14,9 +14,12 @@ What Drives Me:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60">](https://www.php.net)
 [<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60">](https://laravel.com/)
 [<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60">](https://symfony.com)
+[<img src="https://th.bing.com/th/id/OIP.7H81ZTma84-e634_zIMgqAHaHa?w=220&h=220&c=7&r=0&o=5&pid=1.7" alt="react" width="60" height="60">](https://wordpress.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">](https://getbootstrap.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3schools.com/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60">](https://tailwindcss.com/)
+[<img src="https://th.bing.com/th?id=OIP.zqv5oLb_LW4F80VVwCbquwHaKy&w=207&h=301&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="javascripts" width="60" height="60">](https://www.w3schools.com/js/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60">](https://reactjs.org/)
 
 
@@ -39,7 +42,6 @@ What Drives Me:
 ### Design
 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60">](https://www.figma.com/)
-[<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="60" height="60">](https://zapier.com)
 [<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="zapier" width="60" height="60">](https://canva.com)
 ### Operating System
 
